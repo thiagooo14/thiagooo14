@@ -23,7 +23,7 @@ Me chamo [Thiago Tavares](thiagooo14.github.io), sou de Florianópolis, Santa Ca
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=thiagooo14&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagooo14&count_private=true&theme=dracula">
 
 </p>
 
