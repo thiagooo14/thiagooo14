@@ -1,6 +1,6 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-Me chamo [Thiago Tavares](thiagooo14.github.io), sou de Florianópolis, Santa Catarina, Brasil estou me capacitando para ser um **desenvolvedor** e a procura de oportunidades no mercado de trablho!
+Me chamo [Thiago Tavares](thiagooo14.github.io), sou de Florianópolis, Santa Catarina, Brasil
 
 ---
 
